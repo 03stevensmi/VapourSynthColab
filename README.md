@@ -11,7 +11,7 @@ I have fixed this colab and updated the links. I have not tested this as of yet 
 Basic usage:
 * Log in to Google, open the notebook: https://colab.research.google.com/github/03stevensmi/VapourSynthColab/blob/master/VapourSynthColab.ipynb
 * Run the "Check GPU".
-* Before running "Setup", run the First cell.
+* Before running "Setup", run the First cell after "Check GPU".
 * Now run the second cell.
 * When finished, click the little message box at the end of the cell saying "Restart Runtime".
 * Now run the third cell and the "Setup" cells.
