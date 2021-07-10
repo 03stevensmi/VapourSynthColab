@@ -6,7 +6,7 @@ A Google Colab notebook set up for both conventional and machine learning-based 
 ![Colab2.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab2.PNG)
 
 Basic usage:
-* Log in to Google, open the notebook: https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb
+* Log in to Google, open the notebook: https://colab.research.google.com/github/03stevensmi/VapourSynthColab/blob/master/VapourSynthColab.ipynb
 * Run the "Check GPU" and "Run This at Startup" cells.
 * Run the cell with the example VapourSynth script, or load your own video and edit it.
 * Run the "Preview Options" cell to test the script.
