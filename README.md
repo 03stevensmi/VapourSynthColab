@@ -11,8 +11,10 @@ I have fixed this colab and updated the links. I have not tested this as of yet 
 Basic usage:
 * Log in to Google, open the notebook: https://colab.research.google.com/github/03stevensmi/VapourSynthColab/blob/master/VapourSynthColab.ipynb
 * Run the "Check GPU".
-* After "Check GPU", Make sure to first run the 3 new cells before setup. (THIS IS IMPORTANT).
-* Now run the "Setup" cells.
+* Before running "Setup", run the First cell.
+* Now run the second cell.
+* When finished, click the little message box at the end of the cell saying "Restart Runtime".
+* Now run the third cell and the "Setup" cells.
 * Run the cell with the example VapourSynth script, or load your own video and edit it.
 * Run the "Preview Options" cell to test the script.
 * Generate the preview in the preview cell. 
