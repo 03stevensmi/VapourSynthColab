@@ -2,12 +2,17 @@
 
 A Google Colab notebook set up for both conventional and machine learning-based video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on video frames simultaneously in VapourSynth scripts, or use VapourSynth filters to pre/post process videos for other ML Colab projects, and do it all in the cloud for free. 
 
+[UPDATED]:
+I have fixed this colab and updated the links. I have not tested this as of yet but there should be no issues.
+
 ![Colab1.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab1.PNG)
 ![Colab2.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab2.PNG)
 
 Basic usage:
 * Log in to Google, open the notebook: https://colab.research.google.com/github/03stevensmi/VapourSynthColab/blob/master/VapourSynthColab.ipynb
-* Run the "Check GPU" and "Run This at Startup" cells.
+* Run the "Check GPU".
+* After "Check GPU", Make sure to first run the 3 new cells before setup. (THIS IS IMPORTANT).
+* Now run the "Setup" cells.
 * Run the cell with the example VapourSynth script, or load your own video and edit it.
 * Run the "Preview Options" cell to test the script.
 * Generate the preview in the preview cell. 
